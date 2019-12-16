@@ -16,7 +16,7 @@
   -->
 
 <resources>
-    <string name="app_name" translatable="false">NCalc+</string>
+    <string name="app_name" translatable="false">NCalcLibre</string>
     <string name="A" translatable="false">a</string>
     <string name="B" translatable="false">b</string>
     <string name="C" translatable="false">c</string>

@@ -1,14 +1,10 @@
 ![Wallpaper](art/wallpaper.png)
 
-# Calculator N+ - Powerful calculator for Android. 
+# NCalcLibre - Powerful calculator for Android
+Based on [NCalc+](https://github.com/tranleduy2000/ncalc), but without all the tracking libraries.
 
 ## Overview
 This is a powerful android calculator that contains most of the features needed. The power of the application is through the use of the [Symja library](https://github.com/axkr/symja_android_library). The results are displayed by Latex. This project is an open source project that allows people to study, ad-free application.
-
-Get lite version in Google Play Store
-
-<a href="https://play.google.com/store/apps/details?id=com.duy.calculator.free">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="150"></a>
 
 ## How to build this source by using Android Studio
 
